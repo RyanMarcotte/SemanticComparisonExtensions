@@ -2,6 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>SemanticComparisonExtensions is a .NET library that make it easier to compare object hierarchies using SemanticComparison. The library provides set of extensions methods for the Likeness type that can configure the likeness to operate on inner properties and collections.</Description>
+    <Authors>Jerzy Mansarliński</Authors>
+    <PackageLicenseUrl>https://github.com/jmansar/SemanticComparisonExtensions/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/RyanMarcotte/SemanticComparisonExtensions</PackageProjectUrl>
+    <PackageReleaseNotes>Updated to .NET Standard 2.0</PackageReleaseNotes>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageId>Jmansar.SemanticComparisonExtensions.NetStandard</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
