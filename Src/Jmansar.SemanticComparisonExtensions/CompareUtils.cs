@@ -2,10 +2,9 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using Jmansar.SemanticComparisonExtensions.Diagnostics;
-using Ploeh.SemanticComparison;
-using Ploeh.SemanticComparison.Fluent;
+using SemanticComparison;
+using SemanticComparison.Fluent;
 
 namespace Jmansar.SemanticComparisonExtensions
 {
